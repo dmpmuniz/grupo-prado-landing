@@ -935,6 +935,12 @@ ul {
   font-weight: 600;
 }
 
+.footer-credits {
+  width: 100%;
+  font-size: 0.8rem;
+  opacity: 0.85;
+}
+
 /* ============ ANIMAÇÃO DE SCROLL ============ */
 
 .reveal {
